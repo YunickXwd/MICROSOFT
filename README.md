@@ -10,7 +10,7 @@ pkg install python -y && pkg install git -y
 ```
 #### Run
 ```
-git clone --depth 1 https://github.com/UNIKBAAP/MICROSOFT
+git clone --depth 1 https://github.com/Unik-Xwd/MICROSOFT
 cd MICROSOFT
 python3 run.py
 ```
